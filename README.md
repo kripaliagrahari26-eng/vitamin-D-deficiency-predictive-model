@@ -1,8 +1,5 @@
-# vitamin-D-deficiency-predictive-model
+# Vitamin D Deficiency Predictive Model
 End-to-end machine learning pipeline for Vitamin D deficiency prediction and actionable customer risk segmentation.
-# Vitamin D Deficiency Prediction
-
-A machine learning project that predicts vitamin D deficiency risk using patient lifestyle and dietary data.
 
 ## Files
 
