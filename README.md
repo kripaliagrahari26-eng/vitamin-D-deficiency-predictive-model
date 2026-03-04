@@ -5,7 +5,7 @@ End-to-end machine learning pipeline for Vitamin D deficiency prediction and act
 
 | File | Description |
 |---|---|
-| `Dataset_vitamin_deficiency_disease.csv` | Dataset with 34 features per patient |
+| `Dataset_vitamin_deficiency_disease.csv` | Dataset with 4000 records and 34 features per patient |
 | `vitamin_D_predictive_modelling.ipynb` | End-to-end ML pipeline (Google Colab) |
 
 ## Dataset
